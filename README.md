@@ -1,1 +1,1 @@
-# HW3_ReactJS_Calculator
+# js-calculator

@@ -1,0 +1,7 @@
+
+
+In order to work with multi-digits of input number, we need to define an array; value1, to push in numbers
+nth time user clicks on number buttons. Then, we convert each digits of numbers into strings then concatinate all the digits 
+generating string of nth digits number. Finally, we convert it to number in order to perform arithmatic calculation. 
+
+One of the logic we designed for the calculator is that each buttons are allocated to labels,
